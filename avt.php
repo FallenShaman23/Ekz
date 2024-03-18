@@ -5,7 +5,7 @@
   <title>Авторизация</title>
   <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Open+Sans:600'><link rel="stylesheet" href="css/styleavt.css">
 
-</head>
+</head> 
 <body>
 
 <div class="login-wrap">
